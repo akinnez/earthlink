@@ -1,3 +1,3 @@
 * EARTHLINK LOGIN
 
-** This repository contains a clone version of EarthLink Login
+- This repository contains a clone version of EarthLink Login
